@@ -1256,13 +1256,11 @@ The Team
 	width:100%;
 	border:1px ;
 }
-
 .table-header {
 	display:flex;
 	width:100%;
 	background:#000;
 }
-
 .table-row {
   /* display:flex; */
   margin-left: auto;
@@ -1281,11 +1279,6 @@ The Team
   margin-left:auto;
 	justify-content:center;
 	align-items:center;
-}
-
-.table {
-	width:100%;
-	border:1px;
 }
 .center {
   margin-left: auto;
